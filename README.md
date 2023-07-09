@@ -1,1 +1,5 @@
-# w3if-docs
+# W3IF documentation
+
+## Best Practice
+
+## Specification
